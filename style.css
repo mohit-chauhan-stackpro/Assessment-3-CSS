@@ -40,7 +40,7 @@ h1 {
 
 /* Your CSS below here */
 article {
-  background-image: url(top-image.png);
-  background-repeat: no-repeat;
-  background-position: top;
+  background-image: url(top-image.png), url(bottom-image.png);
+  background-repeat: no-repeat, no-repeat;
+  background-position: top, bottom;
 }

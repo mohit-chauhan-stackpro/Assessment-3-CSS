@@ -39,3 +39,8 @@ h1 {
 }
 
 /* Your CSS below here */
+article {
+  background-image: url(top-image.png);
+  background-repeat: no-repeat;
+  background-position: top;
+}

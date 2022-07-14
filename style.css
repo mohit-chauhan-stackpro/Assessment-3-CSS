@@ -43,4 +43,7 @@ article {
   background-image: url(top-image.png), url(bottom-image.png);
   background-repeat: no-repeat, no-repeat;
   background-position: top, bottom;
+  background-color: white;
+  border-top: 1mm solid red;
+  border-bottom: 1mm solid red;
 }
